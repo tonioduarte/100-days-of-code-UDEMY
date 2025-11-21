@@ -11,3 +11,4 @@ if birth and pet :
     print ( 'your band name could be ' + birth + ' ' + pet )
 else :
     print ( 'you need to fill the gaps')
+oi = 6

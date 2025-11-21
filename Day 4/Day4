@@ -1,7 +1,0 @@
-import random 
-import Day1
-
-rad = random.randint(a = 1, b = 100) #numero aleatorio
-print(rad)
-print(Day1.love)
-# dividir o codigo em modulos, para ficar mais facil saber oq está sendo feito, onde pessoas diferentes podem trablhar em modulos diferentes
